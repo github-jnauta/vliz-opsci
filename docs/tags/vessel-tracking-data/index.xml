@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VLIZ Open Science Team</title>
-    <link>https://github-jnauta.github.io/vliz-opsci/post/</link>
-    <description>Recent content on VLIZ Open Science Team</description>
+    <title>vessel tracking data on VLIZ Open Science Team</title>
+    <link>https://github-jnauta.github.io/vliz-opsci/tags/vessel-tracking-data/</link>
+    <description>Recent content in vessel tracking data on VLIZ Open Science Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github-jnauta.github.io/vliz-opsci/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github-jnauta.github.io/vliz-opsci/tags/vessel-tracking-data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenAIS</title>
       <link>https://github-jnauta.github.io/vliz-opsci/post/openais/</link>

@@ -11,6 +11,9 @@ disqusShortname = ""
 
 DefaultContentLanguage = "en"
 
+# Ignore errors when it cannot fetch remote JSON, e.g. when offline
+ignoreErrors = ["error-remote-getjson"]
+
 [taxonomies]
 category = "categories"
 tag = "tags"
